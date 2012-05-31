@@ -1,0 +1,20 @@
+title: L'hydre à 3 têtes
+subtitle: L'enfer c'est les autres têtes
+image: img/hydre.png
+intro:
+
+    Vous avez franchi le Mont Koudebour ! vous touchez bientôt au but...au pied des montagnes, un petit village vous accueille. Seul hic, les villageois vivent sous la tyrannie d'une redoutable hydre. Mais personne dans ce bourg n'est d'accord sur la manière de s'en débarrasser, ainsi chacune des initiatives échouent. cela vous rappelle-t-il quelque chose ? Sauriez vous aider le village ?
+
+choices:
+    -
+        text: Vous reconnaissez-vous dans cette phrase ? "Les fonctionnels devraient vraiment creuser la technique pour arrêter de dire des âneries et changer tout le temps d'avis"
+        next: hydre_ep
+        notes: Bel esprit au sein de l'équipe, -1 respect
+    -
+        text: Vous reconnaissez-vous dans cette phrase ? "Quand le développeurs comprendront le métier le monde informatique sera changé"
+        next: hydre_ep
+        notes: Bel esprit au sein de l'équipe, -1 respect
+    -
+        text: Vous reconnaissez-vous dans cette phrase ? "On a un boulet de la QA et de la documentation dans l'équipe, c'est le sel du projet et de l'équipe"
+        next: hydre_ep
+        notes: franc et juste :) +1 courage, maintenant vous pouvez vous frotter à l'hydre

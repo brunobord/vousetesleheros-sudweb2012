@@ -1,0 +1,21 @@
+title: Auberge du nain saoûl
+subtitle: Et maintenant, où souhaitez-vous aller ?
+image: img/dwarf.jpg
+intro:
+
+    Vous êtes engagés, toute l'équipe est prête à partir à l'aventure. Plusieurs
+    chemins s'offrent à vous.
+
+choices:
+    -
+        text: Le puzzle des Kobolds ?
+        next: kobolds
+        notes: null
+    -
+        text: L'amulette de la mémoire ?
+        next: amulette
+        notes: null
+    -
+        text: Le mur des espoirs ?
+        next: mur
+        notes: null

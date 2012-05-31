@@ -1,0 +1,18 @@
+template: proof.html
+title: Le terriblement dangereux dragon
+subtitle: Mais qui fait les tests ?
+image: img/dragon.gif
+intro: |
+
+    Trouvez les **questions** aux *réponses* suivantes :
+
+    * 42,
+    * 5cm
+    * vert et mauve
+
+
+choices:
+    -
+        text: Rendez-vous pour la rétro
+        next: dragon_ep
+        notes: null

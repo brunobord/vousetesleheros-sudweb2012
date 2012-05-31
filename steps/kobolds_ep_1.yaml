@@ -1,0 +1,20 @@
+template: proof_details.html
+title: Le puzzle des Kobolds
+subtitle: La terrible épreuve des Kobolds
+image: img/kobolds.png
+link: kobolds_ep.html
+intro: |
+
+    Vous avez 1 minute pour
+
+    **Dessiner une prairie durant une belle journée d’été avec :**
+
+    * 10 fleurs bleues avec 5 pétales chacune,
+    * 5 fleurs bleues avec 6 pétales chacune,
+    * 13 fleurs rouges avec 6 pétales chacune,
+    * 2 vaches avec 3 tâches noires,
+    * 1 vache avec 5 tâches noires,
+    * 2 vaches avec 4 tâches noires,
+    * 2 oiseaux dans le coin gauche en haut,
+    * 3 oiseaux au milieu,
+    * le soleil en haut à droite avec 5 rayons

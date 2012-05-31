@@ -1,0 +1,30 @@
+title: Bruno
+subtitle: Oui, il ressemble à Starsky
+intro: |
+
+    ## Développeur Web (niveau 8)
+
+    ### Compétences
+
+    Frappe ultra-rapide (+10) / Mode console (+7) / Faire pousser la barbe (+8) / Multitâche-pro-actif-social-networking (+5) /Guitare (+2) / Râlage (+11)
+
+    ### Armes favorites
+
+    Clavier (+5) / Souris (-10) / Python apprivoisé (+10)
+
+    ### Capacités spéciales
+
+    il se régénère en buvant une tasse de café toutes les 3h. Comme il vient du “Pays des Averses Éternelles”, il est immunisé contre toute forme de pluie.
+
+    ### Tares
+
+    au printemps, tous ses jets ont un malus de -5.
+
+
+choices:
+    -
+        text: Aller voir la fiche de Pablo
+        next: pablo
+    -
+        text: Rendez-vous à la case départ
+        next: index

@@ -1,0 +1,27 @@
+title: Le terriblement dangereux dragon
+subtitle: Mais qui fait les tests ?
+image: img/dragon.gif
+intro:
+
+    L'Antre du Dragon vous fait face. Au loin, vous entendez le son caverneux
+    de son souffle et de sa respiration. Il porte de multiples noms dans
+    de nombreuses Langues de Programmation, mais dans votre dialecte, il
+    se prénomme "Bug". Pour le vaincre, il vous faut nécessairement tester votre
+    site "Socket Attractor".
+
+    Mais encore faut-il que les gens concernés testent au bon moment. Et qui les
+    fait ?
+
+choices:
+    -
+        text: Réalisés par l'équipe durant les sprints de stabilisation
+        next: dragon_ep
+        notes: Après quoi... le test after n'est pas la marque de fabrique de l'agile, -1 feedback
+    -
+        text: Le testeur de l'équipe tout au long des itérations
+        next: dragon_ep
+        notes: Le testeur je ne sais pas qui s'est, pour moi je ne vois que l'équipe, -1 communication
+    -
+        text: ben, tout le monde, l'équipe, tout le temps
+        next: dragon_vic
+        notes: gooood boys, +1 feedback

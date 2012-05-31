@@ -1,0 +1,12 @@
+title: L'hydre à 3 têtes
+subtitle: Release !
+image: img/hydre.png
+intro:
+
+    Grâce à votre tenacité vous livrez votre première release !
+
+choices:
+    -
+        text: Mais il va falloir apprendre à durer
+        next: final
+        notes: null

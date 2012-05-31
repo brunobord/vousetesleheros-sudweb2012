@@ -1,0 +1,24 @@
+title: L'amulette de la mémoire
+subtitle: Et maintenant, où souhaitez-vous aller ?
+image: img/amulette.jpg
+intro:
+
+    "Toute l'équipe est en ordre de bataille. Chacun est équipé : vous avez vos
+    armes (laptops, post-its) et vous connaissez votre rôle.
+
+
+    Où allez-vous ?"
+
+choices:
+    -
+        text: Le puzzle des Kobolds ?
+        next: kobolds
+        notes: null
+    -
+        text: Les tours grises ?
+        next: tours
+        notes: null
+    -
+        text: Le mur des espoirs ?
+        next: mur
+        notes: null

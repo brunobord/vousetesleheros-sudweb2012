@@ -1,0 +1,27 @@
+title: Carte du projet
+template: full_content.html
+content: |
+
+    <img src="assets/img/carte.gif" width="1737" height="911" border="0" usemap="#map"/>
+
+    <map name="map">
+    <!-- #$-:Image map file created by GIMP Image Map plug-in -->
+    <!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+    <!-- #$-:Please do not edit lines starting with "#$" -->
+    <!-- #$VERSION:2.3 -->
+    <!-- #$AUTHOR:pablo -->
+    <area shape="poly" coords="67,485,109,447,143,498,98,534" alt="L&apos;auberge du nain saoûl" href="dwarf.html" />
+    <area shape="poly" coords="240,298,242,293,297,296,291,363,222,374,238,297,238,294" alt="Les mur des espoirs" href="mur.html" />
+    <area shape="poly" coords="177,623,224,588,265,613,272,664,236,687,207,685" alt="Le puzzle des Kobolds" href="kobolds.html" />
+    <area shape="poly" coords="366,426,432,432,433,477,415,514,369,495,355,462" alt="L&apos;amulette de la mémoire" href="amulette.html" />
+    <area shape="poly" coords="514,622,544,569,590,573,615,629,594,685,545,686,525,675" alt="Les tours grises" href="tours.html" />
+    <area shape="poly" coords="530,378,532,333,561,314,598,338,600,383,562,409" alt="Le très terrible dragon" href="dragon.html" />
+    <area shape="poly" coords="819,700,835,661,869,659,884,703,886,740,869,754,843,758" alt="Le tunnel du gnome aveugle" href="tunnel.html" />
+    <area shape="poly" coords="818,498,848,525,891,505,882,457,863,443,827,458" alt="La forêt noire" href="foret.html" />
+    <area shape="poly" coords="841,356,817,322,842,298,868,293,889,321,897,349,884,353" alt="Les marais de la discorde" href="marais.html" />
+    <area shape="poly" coords="972,323,1027,288,1124,298,1218,363,1182,407,971,357" alt="Le passage des marais" href="passage_marais.html" />
+    <area shape="poly" coords="993,493,1005,527,1080,489,1156,494,1222,531,1262,501,1126,425,1051,435,992,489" alt="Le passage de la forêt" href="passage_foret.html" />
+    <area shape="poly" coords="944,748,966,787,1051,728,1116,697,1174,734,1213,695,1133,648,1085,637,946,748" alt="le passage du tunnel" href="passage_tunnel.html" />
+    <area shape="poly" coords="1291,494,1300,431,1355,444,1390,493,1404,552,1374,581,1324,567" alt="Après les monts Koudebour" href="hydre.html" />
+    <area shape="poly" coords="1485,520,1498,436,1550,390,1611,396,1617,455,1619,515,1610,558,1561,592,1505,599" alt="Après la release 1 !" href="final.html" />
+    </map>

@@ -1,0 +1,23 @@
+title: Les marais de la discorde
+subtitle: Le projet est presque au bout mais l'équipe souffre et s'agite, saurez vous ne pas vous perdre en cours de route dans les marais de la discorde ?
+image: img/marais.jpg
+intro:
+
+    Vous êtes scrummaster, Franck, un des membres de l'équipe vient vous voir et vous
+    explique que vraiment, Thomas, c'est un boulet et qu'ils en ont marre, marre et
+    marre. Que faites-vous ?
+
+
+choices:
+    -
+        text: Vous intervenez auprès du manager d'agence pour sortir Thomas de l'équipe.
+        next: marais_ep
+        notes: et la prochaine fois ? -1 respect, -1 courage
+    -
+        text: Vous intervenez auprès de Thomas pour qu'il change d'attitude
+        next: marais_ep
+        notes: et la prochaine fois ? -1 respect, -1 courage
+    -
+        text: Vous proposez à Franck d'évoquer cela avec l'équipe.
+        next: marais_vic
+        notes: C'est une première étape nécessaire, +1 adaptation, +1 respect

@@ -1,0 +1,22 @@
+template: proof.html
+title: Maintenant il faut vivre avec
+subtitle: Oui c'est un peu Sysyphe et sa ba-balle
+image: img/final.jpg
+gift: l'estime de Bruno & Pablo
+intro: |
+
+    ### Règles de l'épreuve
+
+    * Vous êtes une seule grande équipe
+    * Les balles doivent voler pour passer de l'un à l'autre
+    * Pas le droit de passer la balle à votre voisin le plus proche
+    * Le point de départ est le point d'arrivée
+    * Une itération = 2mn
+    * Une rétrospective = 1mn
+    * Faisons 3 itérations minimum
+
+choices:
+    -
+        text: Rendez-vous à l'étape suivante
+        next: final_vic
+        notes: null

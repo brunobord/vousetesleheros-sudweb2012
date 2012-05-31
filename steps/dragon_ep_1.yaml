@@ -1,0 +1,17 @@
+template: proof.html
+title: Le terriblement dangereux dragon
+subtitle: Mais qui fait les tests ?
+image: img/dragon.gif
+intro: |
+
+    Trouvez les réponses aux questions suivantes ?
+
+    * Quelles couleurs de chaussettes ne sont absolument pas appareillées ?
+    * Quelle est la principale pointure masculine ?
+    * À partir de quel diamètre de trou une chaussette sera rejetée lors de son inscription ?
+
+choices:
+    -
+        text: Rendez-vous pour le second groupe
+        next: dragon_ep
+        notes: null

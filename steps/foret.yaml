@@ -1,0 +1,23 @@
+title: La forêt noire
+subtitle: la politique de l'autruche
+image: img/foret.jpg
+intro:
+
+    Il fait sombre dans cette forêt. La légende raconte qu'il est facile de s'y perdre,
+    dans l'obscurité, oublié de tous. Vous n'aimez pas l'obscurité. Un projet
+    Agile doit faire preuve de transparence. Comment illuminez-vous cette forêt ?
+
+
+choices:
+    -
+        text: Toutes les informations du projet sont affichées clairement au mur, un excel permet de capitaliser les éléments clefs
+        next: foret_vic
+        notes: C'est bien le management visuel et l'intelligence cognitive, +1 communication, +1 courage
+    -
+        text: Toutes les informations du projet sont sur un excel, des post-its au mur nous permettent de mettre en valeur les éléments clefs
+        next: foret_ep
+        notes: Pourquoi ne pas tout mettre au mur ? -1 communication
+    -
+        text: On a installé un outil électronique et on a gagné la post-it war
+        next: foret_ep
+        notes: La malédiction de l'outil, ce puit sans fond où tout se perd, -1 communication

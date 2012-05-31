@@ -1,0 +1,22 @@
+title: Le tunnel du gnome aveugle
+subtitle: Qui vivra verra
+image: img/gnome.jpg
+intro:
+
+    Il fait sombre dans ce tunnel. La légende raconte qu'un Gnome aveugle y vit,
+    dans l'obscurité et caché de tous. On raconte qu'il repose sur un tas de pièces d'or qu'il recompte constamment. Chez "socket attractor" aussi on s'interroge sur certains chiffres. Comment vous débrouillez vous pour toutes ces estimations ?
+
+
+choices:
+    -
+        text: L'important ce n'est pas les bons chiffres, mais que tout le monde converge
+        next: tunnel_vic
+        notes: +1 communication
+    -
+        text: On calcul le temps idéal en jour homme pour réaliser une tâche puis on applique un ratio "la vraie vie"
+        next: tunnel_ep
+        notes: La malédiction du jour homme..., -1 communication
+    -
+        text: Peu importe les chiffres c'est par la comparaison de nos tâches que nous estimons
+        next: tunnel_vic
+        notes: +1 adaptation

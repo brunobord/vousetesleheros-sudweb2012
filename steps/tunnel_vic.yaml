@@ -1,0 +1,14 @@
+title: Le tunnel du gnome aveugle
+subtitle: Qui vivra verra
+image: img/gnome.jpg
+intro:
+
+    Vous avez vaincu l'énigme du Gnome Aveugle. Vos yeux sont ouverts et savent
+    voir au-delà des ténèbres.
+
+choices:
+    -
+        text: Vous sortez du tunnel
+        next: passage_tunnel
+        notes: null
+

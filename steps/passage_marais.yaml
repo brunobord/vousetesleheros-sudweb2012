@@ -1,0 +1,21 @@
+title: Le passage du marais
+image: img/passage_marais.jpg
+intro: |
+
+    De même que le fil de votre épée ou de votre hache est toujours aussi aiguisé
+    qu'une lame de rasoir, vous portez toujours une grande attention à la qualité
+    de ce que vous livrez.
+
+    D'ailleurs vous pouvez facilement le prouver en déclenchant à tout moment
+    une kyrielle de tests automatisés. N'est-ce pas ?
+
+    * Naturellement vous avez un outil d'automatisation des tests, n'est ce pas ?
+    * sinon vous pouvez consommer 2 points de feedback, les avez-vous ?
+
+    Dans le cas contraire -1 silver bullet
+
+choices:
+    -
+        text: Vous descendez vers un petit village
+        next: hydre
+        notes: null

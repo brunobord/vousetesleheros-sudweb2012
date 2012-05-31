@@ -1,0 +1,21 @@
+template: proof.html
+title: Le terriblement dangereux dragon
+subtitle: Mais qui fait les tests ?
+image: img/dragon.gif
+gift: Une lanterne qui reste verte quand tous les tests passent.
+intro: |
+
+    Formez deux groupes dans l'équipe. Faites sortir un groupe.
+
+    Quand le premier groupe est prêt, **[Cliquez ici](dragon_ep_1.html)**
+
+    Faites revenir le premier groupe.
+
+    Quand le second groupe est prêt, **[Cliquez ici](dragon_ep_2.html)**
+
+
+choices:
+    -
+        text: Rendez vous à l'étape suivante
+        next: dragon_vic
+        notes: null

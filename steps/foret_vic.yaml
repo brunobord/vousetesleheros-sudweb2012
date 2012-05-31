@@ -1,0 +1,16 @@
+title: La forêt noire
+subtitle: la politique de l'autruche
+image: img/foret.jpg
+intro:
+
+    La forêt sombre vous menace. Au loin, des cris et des rumeurs vous glacent
+    le sang. On entend distinctement le reboot des serveurs au fond des bois.
+
+    Pourtant, vous savez que vous devrez la franchir pour aller au but.
+
+
+choices:
+    -
+        text: Vous entrez dans la forêt
+        next: passage_foret
+        notes: null

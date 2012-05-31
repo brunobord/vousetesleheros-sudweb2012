@@ -1,0 +1,18 @@
+template: proof.html
+title: Les tours grises
+subtitle: Arrêtez les non-dits
+image: img/tour.jpg
+gift: un grimoire traducteur
+intro: |
+
+    #### Epreuve de Zhong-Zi
+
+    Former 3 groupes
+
+    Vous avez **5mn** pour vaincre.
+
+choices:
+    -
+        text: Rendez-vous à l'étape suivante
+        next: tours_vic
+        notes: null

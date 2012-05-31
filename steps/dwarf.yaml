@@ -1,0 +1,26 @@
+title: Auberge du nain saoûl
+subtitle: Pourquoi décide-t-on de faire le projet en agile ?
+image: img/dwarf.jpg
+intro:
+    Vous êtes dans une auberge. Un homme vous y a donné rendez-vous. C'est un
+    moine Agiliste, comme l'indique le médaillon qui orne son torse. Il recrute
+    des gens pour réaliser son grand projet":" Socket Attractor, un réseau social
+    pour les chaussettes. À tous, il pose la question rituelle qui doit sceller
+    l'engagement de l'équipier dans le projet.
+
+    “Pourquoi décide-t-on de faire le projet en agile ?”
+    Que répondez-vous ?
+
+choices:
+    -
+        text: Parce que Agile c'est cool, c'est fun et ça marche
+        next: dwarf_ep
+        notes: Cela pourrait être une bonne raison bande d'enfants gâtés mais vous pourriez vous creuser un peu plus la tête ! -1 inspection
+    -
+        text: C'est un moyen pour pouvoir tenir notre impératif de date
+        next: dwarf_vic
+        notes: En tous cas si vous avez une date butoire, l'une des promesses de l'agile c'est de maximiser la valeur qu'il serait possible de délivrer compte tenu de cette contrainte, +1 transparence
+    -
+        text: Les autres méthodes ont échoué
+        next: dwarf_ep
+        notes: Un peu trop naïf et manichéen non ?

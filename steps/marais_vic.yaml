@@ -1,0 +1,13 @@
+title: Les marais de la discorde
+subtitle: Le projet est presque au bout...
+image: img/marais.jpg
+intro:
+
+    La cohésion règne dans votre équipe, qui se coordonne admirablement. Huile
+    dans les rouages, bonne humeur... Le moral est au beau fixe !
+
+choices:
+    -
+        text: Vous sortez des marais
+        next: passage_marais
+        notes: null

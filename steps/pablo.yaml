@@ -1,0 +1,29 @@
+title: Pablo
+subtitle: Oui, il ressemble à Hutch
+intro: |
+
+    ## Moine Agiliste (niveau 11)
+
+    ### Compétences
+
+    Démonstration par l’absurde (+8) / Mantras de niveau 8 (YAGNI, KISS, DRY) pour ensorceler les récalcitrants.
+
+    ### Armes favorites
+
+    Patafix magique (+10) / Métaphores pertinentes (+6)
+
+    ### Capacités spéciales
+
+    Grâce à ses massages, il sait effacer la mémoire du muscle de ses disciples. Il dispose d’un bloc de post-it qui se régénèrent par magie : ainsi, il n’est jamais à court.
+
+    ### Tares
+
+    Malédiction dite “du folk”, tous ses jets de charme se font avec un malus de -7
+
+choices:
+    -
+        text: Aller voir la fiche de Bruno
+        next: bruno
+    -
+        text: Rendez-vous à la case départ
+        next: index

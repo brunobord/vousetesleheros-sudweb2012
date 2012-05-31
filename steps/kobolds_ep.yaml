@@ -1,0 +1,20 @@
+template: proof.html
+title: Le puzzle des Kobolds
+subtitle: La terrible épreuve des Kobolds
+image: img/kobolds.png
+gift: Une boite à pizza magique car toujours pleine (le kit complet comprend habituellement une gourde d'abondance de café)
+intro: |
+
+    Divisez les participants en deux groupes, faites sortir un groupe
+
+    Quand le premier groupe est prêt : **[Cliquez ici](kobolds_ep_1.html)**
+
+    Faites revenir le second groupe.
+
+    Quand le second groupe est prêt : **[Cliquez ici](kobolds_ep_2.html)**
+
+choices:
+    -
+        text: Rendez-vous à l'étape suivante
+        next: kobolds_vic
+        notes: null

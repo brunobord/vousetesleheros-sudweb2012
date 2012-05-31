@@ -36,6 +36,17 @@
             {% if intro %}
                 {{ intro|safe }}
             {% endif %}
+            {% if chrono %}
+            <script type="text/javascript" src="assets/js/sablier.js"></script>
+            <form name="timeform">
+            Time: <input type="text" name="timetextarea" value="00:00" size="10">
+            <input type="hidden" name="laptime" size="10" >
+            <input type="button" name="start" value="Start/Lap" onclick="sw_start()">
+            <input type="button" name="stop" value="Stop" onclick="Stop()">
+            <input type="button" name="reset" value="Reset" onclick="Reset()">
+            </form>
+            {% endif %}
+            {% block extra %}{% endblock %}
             {% if choices %}
                 <ul>
                 {% for choice in choices %}

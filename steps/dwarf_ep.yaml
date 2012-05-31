@@ -1,0 +1,18 @@
+template: proof.html
+title: Auberge du nain saoûl
+subtitle: Vous devez passer l'épreuve !
+image: img/dwarf.jpg
+gift: une bonne bouteille d'armagnac
+intro: |
+
+    Le Moine Agiliste n'est pas convaincu par votre réponse. Pour être sûr de
+    votre engagement dans la voie de l'Agilité, il vous demande de passer une
+    épreuve.
+
+    Epreuve : **dot voting sur les raisons de l'agilité**
+
+choices:
+    -
+        text: Rendez-vous à l'étape suivante
+        next: dwarf_vic
+        notes: null

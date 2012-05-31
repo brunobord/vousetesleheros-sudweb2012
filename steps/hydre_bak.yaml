@@ -1,0 +1,21 @@
+title: L'hydre à 3 têtes
+subtitle: Saurez vous résister au coup de bourre ?
+image: img/hydre.png
+intro:
+
+    Il faut réquisitionner des membres de l'équipe pour venir au secours nous dit le manager
+
+
+choices:
+    -
+        text: Il faut dire non au manager ou lui annoncer que du coup notre projet n'aboutira pas comme prévu
+        next: hydre_ep
+        notes: +1 Courage
+    -
+        text: Ok c'est normal, pour le projet on va trouver une façon d'optimiser le temps qui nous reste
+        next: hydre_ep
+        notes: -1 Courage +1 Adaptation
+    -
+        text: Ok c'est normal, on va se retrousser les manches et mener les deux de fronts
+        next: hydre_ep
+        notes: -1 Courage -1 Adaptation

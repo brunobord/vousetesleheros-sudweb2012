@@ -1,0 +1,22 @@
+title: L'amulette de la mémoire
+subtitle: Constituons notre équipe
+image: img/amulette.jpg
+intro:
+
+   Le Moine Agiliste avait vu en vous les racines d'un futur adepte de l'Agilité.
+   Mais tous les aventuriers n'ont pas les mêmes talents ou les mêmes compétences.
+   Comment constituer au mieux votre équipe ?
+
+choices:
+    -
+        text: 1 chef de projet, 4 devs, 1 expert métier, 1 testeur
+        next: amulette_ep
+        notes: Pfffff, ce satané chef de projet, mais qu'est-ce qu'il fout là ! -1 adaptation
+    -
+        text: 1 scrummaster, 1 product owner, 6 devs, 2 experts métiers, 1 testeur
+        next: amulette_ep
+        notes: Pfffff, 11 personnes, franchement au delà de 8 ou 9 c'est vite douloureux.
+    -
+        text: 1 facilitateur, 4 dévs, 1 responsable du produit, 1 expert métier
+        next: amulette_vic
+        notes: Hétérogène, compacte, elle a de la gueule +1 courage

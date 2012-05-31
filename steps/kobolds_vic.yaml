@@ -1,0 +1,18 @@
+title: Le puzzle des Kobolds
+subtitle: La terrible épreuve des Kobolds
+image: img/kobolds.png
+intro:
+
+    Votre quête est encore loin d'être achevée. Il vous faudra franchir moult
+    épreuves... Quelle sera la prochaine ?
+
+choices:
+    -
+        text: Les tours grises ?
+        next: tours
+        notes: null
+    -
+        text: L'amulette de la mémoire ?
+        next: amulette
+        notes: null
+

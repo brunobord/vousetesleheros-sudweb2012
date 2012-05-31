@@ -1,0 +1,21 @@
+title: Maintenant il faut vivre avec
+subtitle: Oui c'est un peu Sysyphe et sa ba-balle
+image: img/final.jpg
+intro:
+
+    maintenant que la release est sortie que fait-on ?
+
+
+choices:
+    -
+        text: Et si on continuait à s'améliorer comme une quête sans fin ?
+        next: final_ep
+        notes: Tout le plaisir est dans le voyage, +1 Courage
+    -
+        text: On passe au projet suivant !
+        next: final_ep
+        notes: pourquoi pas...
+    -
+        text: On passe à la release 2 et on intègre les slips dans l'offre.
+        next: final_ep
+        notes: Couillu mais adapté, +1 Adaptation

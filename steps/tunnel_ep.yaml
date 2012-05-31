@@ -1,0 +1,26 @@
+template: proof.html
+title: Le tunnel du gnome aveugle
+subtitle: Qui vivra verra
+image: img/gnome.jpg
+gift: un sac de patafix
+intro: |
+
+    #### Tout le monde prend une feuille et un crayon
+
+    Vous avez 3 minutes pour me saisir ces estimations :
+
+     - Quel est le poids du moine agiliste ?
+     - Combien de pages html dans notre site web ?
+     - Combien de taxi dans Paris ?
+
+
+    Observons...
+
+
+    <!-- 16.623 licences sont actuellement exploitées à Paris (15.800 en 2007), à quoi s'ajoutent 1.300 équivalents taxis (Source : préfecture de Police) au total 19.023 taxis sont à la disposition des parisiens. -->
+
+choices:
+    -
+        text: Rendez-vous à l'étape suivante
+        next: tunnel_vic
+        notes: null

@@ -1,0 +1,21 @@
+title: Le mur des espoirs
+subtitle: Qu'est ce qu'une estimation et un planning agile ?
+image: img/mur.jpg
+intro:
+
+    Fort bien. Maintenant vous savez que l'Art Divinatoire est un art de charlatans.
+    Rien ne vaut le discours de vérité. Si vous ne savez pas exactement combien
+    de jours il vous reste, vous connaissez tout de même votre destination.
+
+    Vous pouvez poursuivre votre parcours. Où irez-vous ?
+
+choices:
+    -
+        text: L'amulette de la mémoire ?
+        next: amulette
+        notes: null
+    -
+        text: Le très terrible dragon ?
+        next: dragon
+        notes: null
+

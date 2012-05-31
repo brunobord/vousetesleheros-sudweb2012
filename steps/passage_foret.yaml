@@ -1,0 +1,24 @@
+title: Le passage de la forêt
+image: img/passage_foret.png
+intro: |
+
+    La nouvelle est tombée soudainement. Il faut aussi ouvrir le site en Asie.
+
+    Vous qui avez toujours fait preuve de prudence et de flexibilité, vous avez
+    mise en oeuvre le Kata de Babel, un framework de traduction hyper-puissant
+    pour rapidement basculer en multilangues/unicode et gérer les caractères
+    idéogrammatiques des tribus du Klach, celles qu'on ne peut voir que sous
+    la lumière de la pleine lune.
+
+    Hein... ? n'est ce pas ?
+
+    * Vous possédez par chance un grimoire traducteur ?
+    * Vous consommez 2 points de courage, les avez vous ?
+
+    Dans le cas contraire -1 silver bullet
+
+choices:
+    -
+        text: Vous descendez vers un petit village
+        next: hydre
+        notes: null

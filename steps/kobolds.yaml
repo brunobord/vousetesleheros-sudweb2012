@@ -1,0 +1,22 @@
+title: Le puzzle des Kobolds
+subtitle: Savons-nous ce que nous voulons faire ?
+image: img/kobolds.png
+intro:
+
+    Le Seigneur Commanditaire du projet présente les impératifs de son projet.
+    Il a longuement exposé son projet, ses impératifs de temps et
+    de budget. Savez-vous ce que vous voulez faire avec ces éléments ?
+
+choices:
+    -
+        text: La personne qui porte le besoin nous a insufflé sa vision et ses priorités, nous a raconté son histoire, on a compris, on sait par quoi commencer, on verra ensuite
+        next: kobolds_vic
+        notes: Gagné, +1 simplicité
+    -
+        text: La date butoir du 26 octobre nous permet de préparer aux petits oignons le contenu du projet dans les 10 mois impartis
+        next: kobolds_ep
+        notes: N'est-ce pas là du temps perdu à préparer des choses aux petits oignons pour dans 10 mois ? Elles seront probablement remises en question, -1 feedback
+    -
+        text: On a un ensemble de demandes assez précises on va se lancer dedans
+        next: kobolds_ep
+        notes: Cela peut marcher, mais sans vision ou histoire à raconter vous risquez de perdre du sens et du temps

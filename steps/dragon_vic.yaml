@@ -1,0 +1,20 @@
+title: Le terriblement dangereux dragon
+subtitle: Mais qui fait les tests ?
+image: img/dragon.gif
+intro:
+
+        Vous savez désormais qui fait les tests de votre application, et le Dragon
+        Bug ne vous fait plus peur.
+
+
+        Vous poursuivez votre chemin... Où vous dirigez-vous ?
+
+choices:
+    -
+        text: Les tours grises ?
+        next: tours
+        notes: null
+    -
+        text: Les marais de la discorde ?
+        next: marais
+        notes: null

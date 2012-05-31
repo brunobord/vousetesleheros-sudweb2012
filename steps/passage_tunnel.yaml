@@ -1,0 +1,21 @@
+title: Le passage du tunnel
+image: img/passage_tunnel.jpg
+intro: |
+
+    Depuis le début vous êtes sensibilisés à l'importance qu'il y a à montrer le
+    résultat de vos travaux. Mais vous avez oublié de convier une personne-clef !
+    Mais où aviez vous la tête ? Comment combler ses attentes désormais ?
+
+    Seul façon d'en réchapper :
+
+    * Par chance auriez vous un sac à idées sans fin ?
+    * Sinon, consommer 2 points d'adaptation, les avez vous ?
+
+    Dans le cas contraire -1 silver bullet
+
+
+choices:
+    -
+        text: Vous descendez vers un petit village
+        next: hydre
+        notes: null

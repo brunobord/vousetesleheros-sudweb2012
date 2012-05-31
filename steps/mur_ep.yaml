@@ -1,0 +1,14 @@
+template: proof.html
+title: Le mur des espoirs
+subtitle: Qu'est ce qu'une estimation et un planning agile ?
+image: img/mur.jpg
+gift: un jeu de tarots
+intro: |
+
+    Traverse la rivière avant d'insulter le crocodile disait l'oracle de Delphi
+
+choices:
+    -
+        text: Rendez-vous à l'étape suivante
+        next: mur_vic
+        notes: null

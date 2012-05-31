@@ -1,0 +1,26 @@
+title: Le mur des espoirs
+subtitle: Qu'est ce qu'une estimation et un planning agile ?
+image: img/mur.jpg
+intro:
+
+    Il est bien beau de savoir produire des choses, mais qu'en est-il d'évaluer
+    sa difficulté ? Le Seigneur Commanditaire veut sans cesse savoir où vous
+    en êtes, mais aussi et surtout combien de temps il devra attendre avant
+    de voir son site réalisé.
+
+    Comment faites-vous pour évaluer le temps à passer pour forger un Clavier Tueur
+    de Dragon ou un Script de Déploiement +10.
+
+choices:
+    -
+        text: Je compare les choses entre elles pour les estimer et je reproduis une cadence pour me projeter mais peu importe les estimations, il faut surtout que nous soyons "raccord" entre nous
+        next: mur_vic
+        notes: bien vu, +1 feedback
+    -
+        text: On n'estime pas, on fait nous, Môsieur.
+        next: mur_ep
+        notes: gonflé... et risqué il faudrait un minimum de convergence au sein de l'équipe pour savoir ce qu'il y a à faire. L'estimation sert surtout à mettre en oeuvre cette convergence, -1 feedback
+    -
+        text: Des jours homme calculés grâce à un jeu de poker particulier, et avec ces jours homme je peux projeter un planning
+        next: mur_ep
+        notes: la malédiction du jour homme... -1 simplicité

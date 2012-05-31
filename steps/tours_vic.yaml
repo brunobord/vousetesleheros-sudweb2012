@@ -1,0 +1,21 @@
+title: Les tours grises
+subtitle: Arrêtez les non-dits
+image: img/tour.jpg
+intro:
+
+    Le discours de Vérité vous a permis de passer entre les Deux Tours Grises.
+    Vous pouvez poursuivre votre parcours. Où irez-vous ?
+
+choices:
+    -
+        text: Le tunnel du gnome aveugle ?
+        next: tunnel
+        notes: null
+    -
+        text: Le très terrible dragon ?
+        next: dragon
+        notes: null
+    -
+        text: La forêt noire ?
+        next: foret
+        notes: null

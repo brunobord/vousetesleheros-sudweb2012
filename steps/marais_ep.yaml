@@ -1,0 +1,20 @@
+template: proof.html
+title: Les marais de la discorde
+subtitle: Le projet est presque au bout mais l'équipe souffre et s'agite, saurez vous ne pas vous perdre en cours de route dans les marais de la discorde ?
+image: img/marais.jpg
+gift: un philtre d'amour
+chrono: yes
+intro: |
+    #### Epreuve 42
+
+    Vous avez **8mn** pour compter jusqu'à 42 en respectant ces règles :
+
+    * 1 seule personne à la fois annonce un nombre à haute voix ou clap dans ses mains
+    * A chaque nombre finissant par trois, au lieu de donner le nombre on clap dans ses mains
+    * A chaque multiple de 3 au lieu de donner le nombre, on clap dans ses mains
+
+choices:
+    -
+        text: Rendez-vous à l'étape suivante
+        next: marais_vic
+        notes: null

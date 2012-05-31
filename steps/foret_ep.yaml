@@ -1,0 +1,23 @@
+template: proof.html
+title: La forêt noire
+subtitle: Qui a peur seul dans le noir ?
+image: img/foret.jpg
+gift: Une poudre magique qui révèle les non-dits
+chrono: yes
+intro: |
+    Vous avez 5 minutes
+
+    Vous devez tous vous compter selon ces règles :
+
+    * Une personne et seule donne 1 chiffre
+    * Si deux personnes donnent le même chiffre il faut recommencer
+    * Si deux personnes parlent en même temps il faut recommencer
+    * Vous pouvez recommencer à tout moment
+
+    Mais tout cela se joue : **avec les yeux fermés**
+
+choices:
+    -
+        text: Rendez-vous à l'étape suivante
+        next: foret_vic
+        notes: null

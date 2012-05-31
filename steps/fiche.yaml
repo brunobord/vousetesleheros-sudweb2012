@@ -1,0 +1,5 @@
+title: La fiche des personnages
+template: full_content.html
+content: |
+
+    <img src="assets/img/fiche.png">

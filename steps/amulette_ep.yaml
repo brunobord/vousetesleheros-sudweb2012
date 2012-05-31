@@ -1,0 +1,14 @@
+template: proof.html
+title: L'amulette de la mémoire
+subtitle: Vous devez passer l'épreuve !
+image: img/amulette.jpg
+gift: un sac à idées sans fin
+intro: |
+
+    Démarrons par un petit exercice avec deux traits.
+
+choices:
+    -
+        text: Rendez vous à l'étape suivante
+        next: amulette_vic
+        notes: null

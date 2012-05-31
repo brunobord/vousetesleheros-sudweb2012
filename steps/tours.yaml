@@ -1,0 +1,24 @@
+title: Les tours grises
+subtitle: Arrêtez les non-dits
+image: img/tour.jpg
+intro:
+
+    Le projet suit son cours... Vous passez au large de tours maléfiques. Ces
+    tours grises ont le pouvoir de faire émerger les conflits, habituellement
+    enfouis dans les coeurs. C'est le moment de faire preuve de transparence
+    et de courage et dire la vérité. Quand quelque chose ne va pas dans un
+    projet agile, à qui le dites vous ? et à quel moment ?
+
+choices:
+    -
+        text: Au scrummaster, lors des daily scrum
+        next: tours_ep
+        notes: Pourquoi le scrummaster plus qu'un autre ? -1 simplicité
+    -
+        text: Aux membres de l'équipe, lors des daily scrum
+        next: tours_ep
+        notes: Pourquoi spécifiquement lors des daily scrum ? -1 simplicité
+    -
+        text: A tous, n'importe quand
+        next: tours_vic
+        notes: +1 simplicité, +1 adaptation

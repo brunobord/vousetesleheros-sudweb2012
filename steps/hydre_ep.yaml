@@ -1,0 +1,25 @@
+template: proof.html
+title: L'hydre à 3 têtes
+subtitle: L'enfer c'est les autres têtes
+image: img/hydre.png
+gift: rien, non rien de rien
+chrono: yes
+intro: |
+
+    ### Epreuve des chaises
+
+    **Attention !** L'Hydre a l'ouïe fine ! Le jeu doit se dérouler dans le **silence le plus complet** !
+
+    * Formez 3 groupes
+    * Que chacun se munisse d'une chaise qu'il place devant lui
+    * Chaque groupe designe un leader
+    * Le moine agiliste distribue à chaque leader l'objectif de son groupe, au leader de faire passer le mot au sein du groupe.
+
+    Vous disposez de 9 mn pour gagner.
+
+choices:
+    -
+        text: Rendez-vous à l'étape suivante
+        next: hydre_vic
+        notes: null
+
