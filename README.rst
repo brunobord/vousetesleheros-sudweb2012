@@ -7,7 +7,6 @@ a Free Software gamebook generator.
 
 For more on this, `dive into the documentation <http://vous-etes-le-heros.rtfd.org/>`_. Now, let's be french.
 
----
 
 Le contexte
 ===========
