@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Le projet web dont vous êtes le héros agile</title>
+    <title>Le Sablier</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='http://fonts.googleapis.com/css?family=Lancelot|MedievalSharp' rel='stylesheet' type='text/css'>
@@ -22,31 +22,29 @@
 
 <div class="container">
     <div class="page-header">
-        <h1>Le projet web dont vous êtes le héros agile</h1>
+        <h1>Le Sablier</h1>
         <h2></h2>
     </div>
 
     <div class="row">
         
-        <div class="span3">
-            <img src="assets/img/heros.jpg" />
-        </div>
-        
-        <div class="span7 ">
-            
-                <ul>
-<li><a href="regles.html">Les règles</a></li>
-<li><a href="dwarf.html">Commencer l'aventure</a></li>
-<li><a href="carte.html">La carte du projet</a></li>
-<li><a href="bruno.html">Bruno</a></a> &amp; <a href="pablo.html">Pablo</a></li>
-<li><a href="masterstips.html">Trucs et astuces</a></li>
-<li><a href="credits.html">Crédits &amp; liens</a></li>
-</ul>
-<p><img alt="licence" src="assets/img/cc88x31.png" />
-Ce travail est sous licence <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a></p>
+        <div class="span7 offset3">
             
             
+            <script type="text/javascript" src="assets/js/sablier.js"></script>
+            <form name="timeform">
+            Time: <input type="text" name="timetextarea" value="00:00" size="10">
+            <input type="hidden" name="laptime" size="10" >
+            <input type="button" name="start" value="Start/Lap" onclick="sw_start()">
+            <input type="button" name="stop" value="Stop" onclick="Stop()">
+            <input type="button" name="reset" value="Reset" onclick="Reset()">
+            </form>
             
+            
+
+<p><a href="carte.html">Retour à l'épreuve</a></p>
+
+
             
         </div>
     </div>
