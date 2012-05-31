@@ -2,7 +2,7 @@ title: Carte du projet
 template: full_content.html
 content: |
 
-    <img src="assets/img/carte.gif" width="1737" height="911" border="0" usemap="#map"/>
+    <img src="assets/img/carte.gif" width="1737" height="911" border="0" usemap="#map" class="full"/>
 
     <map name="map">
     <!-- #$-:Image map file created by GIMP Image Map plug-in -->
