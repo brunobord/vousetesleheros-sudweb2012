@@ -42,5 +42,7 @@ La génération des pages se fait simplement en lançant la commande suivante::
 
 Ces pages se trouveront dans le répertoire "website" de votre copie de travail.
 
-Une copie (la copie originale) de la présentation peut également être trouvée sur le site utilisé pendant l'Élaboratoire :
+Si vous voulez voir une version "moderne" de cette présentation, allez sur http://brunobord.github.com/vousetesleheros-sudweb2012/
+
+La copie originale de la présentation peut également être trouvée sur le site utilisé pendant l'Élaboratoire :
 http://vousetesleheros.alwaysdata.net/
