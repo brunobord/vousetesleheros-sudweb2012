@@ -1,5 +1,6 @@
 title: Bruno
 subtitle: Oui, il ressemble à Starsky
+image: img/bruno.jpg
 intro: |
 
     ## Développeur Web (niveau 8)
@@ -25,6 +26,9 @@ choices:
     -
         text: Aller voir la fiche de Pablo
         next: pablo
+    -
+        text: Aller voir la fiche de Antoine
+        next: antoine
     -
         text: Rendez-vous à la case départ
         next: index

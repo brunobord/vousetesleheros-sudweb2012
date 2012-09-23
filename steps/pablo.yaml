@@ -1,8 +1,9 @@
 title: Pablo
 subtitle: Oui, il ressemble à Hutch
+image: img/pablo.jpg
 intro: |
 
-    ## Moine Agiliste (niveau 11)
+    ## Moine Agiliste (niveau 11 dit du <i>spinal tap</i>)
 
     ### Compétences
 
@@ -24,6 +25,10 @@ choices:
     -
         text: Aller voir la fiche de Bruno
         next: bruno
+        
+    - 
+        text: Aller voir la fiche de Antoine
+        next: antoine    
     -
         text: Rendez-vous à la case départ
         next: index
