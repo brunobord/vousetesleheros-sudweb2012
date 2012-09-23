@@ -15,7 +15,7 @@ choices:
         next: amulette
         notes: null
     -
-        text: Le très terrible dragon ?
+        text: Le très dangereux dragon ?
         next: dragon
         notes: null
 
