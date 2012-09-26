@@ -1,0 +1,34 @@
+title: Antoine
+subtitle: Non, il ne ressemble pas à Huggy les bons tuyaux
+image: img/antoine.jpg
+intro: |
+
+    ## Forgeron du code (niveau 10)
+
+    ### Compétences
+
+    Immunisation contre les apéros-webs ou agiles par inversion de dépendance (+4) / Transmutation des tests du rouge au vert (+9) / Artisanerie (+7)
+
+    ### Armes favorites
+
+    Fumée toxique de cigare (-8) / Morceaux de métal (+7) / Substitution de Liskov (+2)
+
+    ### Capacités spéciales
+
+    Force de persuasion, quand il se déploie de toute son envergure il convainc quiconque, comme par magie.
+
+    ### Tares
+
+    Se prend pour le seigneur Vador et ne cesse de répéter : "je suis ton père programming". Allergie à la tomate, prend effet dès le premier Pomodoro. 
+
+
+choices:
+    -
+        text: Aller voir la fiche de Pablo
+        next: pablo
+    -
+        text: Aller voir la fiche de Bruno
+        next: bruno
+    -
+        text: Rendez-vous à la case départ
+        next: index
