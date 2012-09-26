@@ -42,7 +42,10 @@ La génération des pages se fait simplement en lançant la commande suivante::
 
 Ces pages se trouveront dans le répertoire "website" de votre copie de travail.
 
-Si vous voulez voir une version "moderne" de cette présentation, allez sur http://brunobord.github.com/vousetesleheros-sudweb2012/
+
+La version en ligne se trouve sur http://www.jabberwocky.fr
+
+//Si vous voulez voir une version "moderne" de cette présentation, allez sur http://brunobord.github.com/vousetesleheros-sudweb2012/
 
 La copie originale de la présentation peut également être trouvée sur le site utilisé pendant l'Élaboratoire :
 http://vousetesleheros.alwaysdata.net/
